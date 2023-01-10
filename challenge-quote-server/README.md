@@ -14,6 +14,7 @@ In the _extended_ work of this challenge, you also make a React app which displa
 Here's how it might look if you make a request to such a server.
 ![screenshot of the server in use](./screenshots/quote-server-example.png)
 
+
 ## Level 1 Challenge - make the quote server
 
 Your server must have at least these two "routes":
