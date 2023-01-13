@@ -1,0 +1,15 @@
+{
+  "name": "quotes-server",
+  "version": "1.0.0",
+  "description": "- 1 hour (level 1)\r - 3-4 hours (advanced level)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
